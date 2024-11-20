@@ -43,14 +43,14 @@ button {
   padding: 10px;
   margin: 24px 10px;
   text-align: center;
+  margin: auto;
 }
 
 .new-btn {
-  margin-left: 100px;
+  margin-left: 40px;
 }
 
-#trash {
-  margin-left: 60%;
+.trash {
   background-color: #d6336c;
 }
 section{
@@ -59,24 +59,11 @@ section{
 .email{
   color: black;
   grid-row: 1/5;
-  border: #343a40;
 }
 main{
   color: black;
 }
 aside{
   background-color: #737a81;
-  color: black;
-}
-.new-btn {
-  margin-left: 40px;
-}
-
-.trash {
-  background-color: #d6336c;
-}
-
-.left-section {
-  background-color: #cacaca;
   color: black;
 }
